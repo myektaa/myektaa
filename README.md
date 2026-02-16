@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myektaa
 - 🌱 I’m currently learning swift
-- 📫 How to reach me yekot81@gmail.com
+- 📫 How to reach me mustafayektataraf@gmail.com
 
 
 <!---
