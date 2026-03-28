@@ -23,4 +23,4 @@
 
 
 
-![snake gif](https://github.com/myektaa/myektaa/blob/output/github-contribution-grid-snake.gif)
+
