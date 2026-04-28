@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Yekta Taraf</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Swift & UIKit**
+- 🔭 I’m currently working on **Swift & UIKit** and **Java**
 
 - 📫 How to reach me **mustafayektataraf@gmail.com**
 
